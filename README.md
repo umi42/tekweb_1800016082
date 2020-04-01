@@ -1,4 +1,3 @@
-//tekweb_1800016082
 <div style="text-align:center">
 	<h1>
 		<font color=blue>SISTEM INFORMASI UAD</color>
